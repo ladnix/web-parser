@@ -1,4 +1,4 @@
-// ==== Function ====
+// ==== Function Swipe ====
 function fSwipe(idScrollSelector, idLastScrollSelector, minSwipeStep, maxSwipeStep, minSwipeDelay, maxSwipeDelay) {
     let swipeElement = document.querySelector(idScrollSelector);
     let stopElement = document.querySelector(idLastScrollSelector);
