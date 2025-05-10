@@ -1,0 +1,13 @@
+# Editor swap and backup files
+*.swp
+*.bak
+*.tmp
+*~
+
+# Log files
+*.log
+
+# Environment files
+.env
+.env.*
+
